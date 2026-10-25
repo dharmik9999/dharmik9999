@@ -24,19 +24,34 @@ My primary interests are RTL design, digital logic, SystemVerilog, functional ve
 
 ## 🚀 Featured VLSI Projects
 
-### Asynchronous FIFO Design & Verification
+### Synchronous FIFO Design & Verification
 
-A parameterized asynchronous FIFO design project exploring dual-clock operation and functional verification.
+Parameterized single-clock FIFO implemented in Verilog-2005 with a SystemVerilog self-checking testbench.
 
 **Key features:**
 - Configurable data width and FIFO depth
-- Independent read and write pointers
-- Gray-coded pointers for clock-domain crossing
-- Full, empty, almost-full, and almost-empty flags
-- Overflow and underflow handling
-- Directed testing, self-checking testbench, and functional coverage
+- Circular read/write pointers and occupancy tracking
+- Full/empty flags and overflow/underflow handling
+- Synchronous reset and simultaneous read/write operations
+- Directed and randomized testing with procedural coverage checks
+- Automated simulation, regression, lint, and generic synthesis workflows
 
-*Repository link will be added after publication.*
+**[View Synchronous FIFO Project](https://github.com/dharmik9999/Synchronous-FIFO-Design-Verification)**
+
+### Verilog & SystemVerilog RTL Design Exercises
+
+Structured learning portfolio containing **139 exercises (97 Verilog and 42 SystemVerilog)** and **10 mini-projects**.
+
+**Topics covered:**
+- Combinational and sequential digital logic
+- FSMs, counters, registers, and memory design
+- Verilog and SystemVerilog testbench development
+- Scoreboards, reference models, and verification concepts
+- Simulation scripts and automated exercise workflows
+
+**Validation:** Historical evidence reports 86 compile passes and 47 simulation passes. Current-source validation remains incomplete for some exercises.
+
+**[View Verilog/SystemVerilog Learning Project](https://github.com/dharmik9999/Verilog-SystemVerilog-Learning)**
 
 ### Verilog & SystemVerilog RTL Design Exercises
 
