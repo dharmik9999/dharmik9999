@@ -1,4 +1,4 @@
-[[[# Hi, I'm Dharmik Mangukiya 👋
+# Hi, I'm Dharmik Mangukiya 👋
 
 ### Aspiring RTL Design & Verification Engineer
 
