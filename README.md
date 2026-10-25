@@ -2,9 +2,9 @@
 
 ### Aspiring RTL Design & Verification Engineer
 
-I'm a Bachelor of Computer Applications (BCA) graduate based in Bengaluru, India, currently pursuing specialized VLSI Design & Verification training at MasterVLSI.
+I'm a Bachelor of Computer Applications (BCA) graduate based in Bengaluru, India, currently pursuing specialized **VLSI Design & Verification training at MasterVLSI**.
 
-My primary interests are RTL design, digital logic, SystemVerilog, functional verification, and clock-domain crossing. I am developing hands-on skills through HDL projects, simulation, debugging, and structured technical practice.
+My interests include RTL design, digital logic, SystemVerilog, functional verification, and digital hardware architecture. I'm developing hands-on skills through RTL projects, simulation, debugging, and structured technical practice.
 
 ## 🔧 Technical Skills
 
@@ -12,9 +12,11 @@ My primary interests are RTL design, digital logic, SystemVerilog, functional ve
 
 **Digital Design:** Digital Logic Design, RTL Fundamentals, FIFO Design, Clock-Domain Crossing Fundamentals
 
-**Verification:** Directed Testing, Self-Checking Testbenches, Functional Coverage, UVM Fundamentals, Constrained Randomization Basics
+**Verification:** Directed Testing, Self-Checking Testbenches, Procedural Functional Coverage, UVM Fundamentals, Constrained Randomization Basics
 
 **EDA & Simulation:** ModelSim, QuestaSim, GTKWave, EDA Playground
+
+**Additional RTL Tools:** Icarus Verilog, Verilator, Yosys (Project Workflows)
 
 **Scripting:** Python and Perl (Basic)
 
@@ -22,47 +24,45 @@ My primary interests are RTL design, digital logic, SystemVerilog, functional ve
 
 **Version Control:** Git, GitHub
 
+---
+
 ## 🚀 Featured VLSI Projects
 
-### Synchronous FIFO Design & Verification
+### 1. Synchronous FIFO Design & Verification
 
-Parameterized single-clock FIFO implemented in Verilog-2005 with a SystemVerilog self-checking testbench.
+A parameterized, single-clock synchronous FIFO implemented in **Verilog-2005**, with a SystemVerilog self-checking testbench.
 
-**Key features:**
-- Configurable data width and FIFO depth
-- Circular read/write pointers and occupancy tracking
-- Full/empty flags and overflow/underflow handling
-- Synchronous reset and simultaneous read/write operations
-- Directed and randomized testing with procedural coverage checks
-- Automated simulation, regression, lint, and generic synthesis workflows
+**Key Features:**
+- Configurable data width and FIFO depth.
+- Circular read/write pointers and occupancy tracking.
+- Full/empty flags and overflow/underflow handling.
+- Active-low synchronous reset.
+- Simultaneous read/write operations.
+- Directed and deterministic randomized testing.
+- Self-checking scoreboard and procedural coverage checks.
+- Automated simulation, regression, lint, and generic synthesis workflows.
+
+**Verification Evidence:** The saved October 2026 project handoff reports 73 passing simulations across nine configurations. These historical results have not been freshly reproduced for the published copy.
 
 **[View Synchronous FIFO Project](https://github.com/dharmik9999/Synchronous-FIFO-Design-Verification)**
 
-### Verilog & SystemVerilog RTL Design Exercises
+### 2. Verilog & SystemVerilog RTL Design Exercises
 
-Structured learning portfolio containing **139 exercises (97 Verilog and 42 SystemVerilog)** and **10 mini-projects**.
+A structured HDL learning portfolio containing **139 exercises (97 Verilog and 42 SystemVerilog)**, including **10 mini-projects**.
 
-**Topics covered:**
-- Combinational and sequential digital logic
-- FSMs, counters, registers, and memory design
-- Verilog and SystemVerilog testbench development
-- Scoreboards, reference models, and verification concepts
-- Simulation scripts and automated exercise workflows
+**Topics Covered:**
+- Combinational and sequential digital logic.
+- Counters, registers, FSMs, and memory design.
+- Verilog and SystemVerilog testbench development.
+- Scoreboards, reference models, and verification concepts.
+- Simulation scripts and automated exercise workflows.
+- UART, SPI, PWM, FIFO, ALU, and simple CPU datapath examples.
 
-**Validation:** Historical evidence reports 86 compile passes and 47 simulation passes. Current-source validation remains incomplete for some exercises.
+**Validation:** Saved source-matched historical evidence reports 86 compile passes and 47 native simulation passes. Current-source validation remains incomplete for 53 exercises.
 
-**[View Verilog/SystemVerilog Learning Project](https://github.com/dharmik9999/Verilog-SystemVerilog-Learning)**
+**[View Verilog & SystemVerilog Learning Project](https://github.com/dharmik9999/Verilog-SystemVerilog-Learning)**
 
-### Verilog & SystemVerilog RTL Design Exercises
-
-A collection of practical HDL exercises focused on strengthening digital design and verification fundamentals.
-
-- Combinational and sequential logic
-- Verilog and SystemVerilog coding
-- RTL modeling and testbench development
-- Simulation and waveform debugging
-
-*Repository link will be added after publication.*
+---
 
 ## 🎓 Education & Training
 
@@ -73,15 +73,23 @@ Veer Narmad South Gujarat University | 2023–2026
 **VLSI Design & Verification Training**  
 MasterVLSI, Bengaluru | Nov 2025 – Present
 
-## 🎯 Career Interests
-
-I'm seeking opportunities in RTL Design, Design Verification, and entry-level VLSI engineering, including trainee and internship positions.
-
-📍 Bengaluru, India — Open to relocation  
-📧 mangukiyadharmik833@gmail.com
+**Training Areas:** Digital Electronics, Verilog HDL, SystemVerilog, UVM Fundamentals, Python and Perl Scripting.
 
 ---
 
-*Focused on building strong RTL design and verification fundamentals through continuous learning and practical implementation.*
-](https://github.com/dharmik9999?utm_source=chatgpt.com)
-](https://github.com/dharmik9999?utm_source=chatgpt.com)](https://github.com/dharmik9999?utm_source=chatgpt.com)
+## 🎯 Career Interests
+
+I'm seeking entry-level opportunities in:
+
+- RTL Design
+- Design Verification
+- VLSI Engineering Trainee Positions
+- Semiconductor Design & Verification Internships
+
+📍 **Location:** Bengaluru, Karnataka, India — Open to relocation
+
+📧 **Email:** mangukiyadharmik833@gmail.com
+
+---
+
+*Building a strong foundation in digital design and functional verification through practical RTL implementation, simulation, and continuous learning.*
