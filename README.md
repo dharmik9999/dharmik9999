@@ -1,4 +1,4 @@
-# Hi, I'm Dharmik Mangukiya 👋
+[# Hi, I'm Dharmik Mangukiya 👋
 
 ### Aspiring RTL Design & Verification Engineer
 
@@ -68,3 +68,4 @@ I'm seeking opportunities in RTL Design, Design Verification, and entry-level VL
 ---
 
 *Focused on building strong RTL design and verification fundamentals through continuous learning and practical implementation.*
+](https://github.com/dharmik9999?utm_source=chatgpt.com)
